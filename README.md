@@ -4,8 +4,8 @@ I am Maca, a self-taught frontend developer skilled in:
 
 * HTML
 * CSS
-* (https://camo.githubusercontent.com/3c9bdccd2700a71…468652d6261646765266c6f676f3d6a617661736372697074)
-* React.js (just basics)
+* <img href="https://camo.githubusercontent.com/3c9bdccd2700a71…468652d6261646765266c6f676f3d6a617661736372697074" />
+  * React.js (just basics)
 
 <!--
 **Maacaa0/Maacaa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
