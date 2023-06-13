@@ -8,7 +8,7 @@ I am Maca, a self-taught frontend developer skilled in:
   * React.js (just basics)
 
 
-![](https://komarev.com/ghpvc/?username=Maacaa0)
+<!--![](https://komarev.com/ghpvc/?username=Maacaa0) -->
 
 <!--
 **Maacaa0/Maacaa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
