@@ -4,7 +4,8 @@ I am Maca, a self-taught frontend developer skilled in:
 
 * HTML
 * CSS
-* <img href="https://camo.githubusercontent.com/3c9bdccd2700a71…468652d6261646765266c6f676f3d6a617661736372697074" />
+* 
+* <picture><img href="https://camo.githubusercontent.com/3c9bdccd2700a71…468652d6261646765266c6f676f3d6a617661736372697074" /></picture>
   * React.js (just basics)
 
 <!--
