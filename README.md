@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :full_moon_with_face:
 
 I am Maca, a self-taught frontend developer skilled in: 
 
