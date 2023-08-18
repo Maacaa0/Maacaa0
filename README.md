@@ -14,7 +14,6 @@ I'am currently learning:
 Technology I'am familiar with but need to practice more: 
 
 ![Tailwind](https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64)
-
 ![Sass](https://camo.githubusercontent.com/16db1acceb11262e7843eead05f096df531372d8da9965cf2c7afb74c7bc188c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373)
 
 
