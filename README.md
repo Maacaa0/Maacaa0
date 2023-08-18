@@ -11,6 +11,7 @@ I'am currently learning:
 ![ReactJs](https://camo.githubusercontent.com/86ce870479afdbfa7075d5b25bff8642dd4894a061c920ea9a49d3f77c74b55b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374)
 ![Typescript](https://camo.githubusercontent.com/6f95f82ca5c1070b62cc44c815f3ae6c581158e41ac5812e70f72babcb590206/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)
 ![Git](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg | width=48px)
+<img src="[https://your-image-url.type](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg)" width="48" height="48">
 
 Technology I'am familiar with but need to practice more: 
 
