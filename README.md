@@ -12,6 +12,7 @@ I'm currently learning:
 ![Typescript](https://camo.githubusercontent.com/6f95f82ca5c1070b62cc44c815f3ae6c581158e41ac5812e70f72babcb590206/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473)
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git-icon.svg" width="48" height="48">
 
+[Personal Portfolio](https://marcelhess.cz/) 
 
 <!--![](https://komarev.com/ghpvc/?username=Maacaa0) -->
 
